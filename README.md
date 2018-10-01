@@ -24,4 +24,4 @@ Currently, we'll be suggesting 3 different treatments:<br>
     
 We've connected it to messenger (Facebook), using the provision given by Rasa.<br>
 
-The project is in its budding stages, anyone interested to contribute can do so. :) 
+The project is in its budding stages. Support Us! :) 
